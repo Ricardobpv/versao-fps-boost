@@ -1,1 +1,2 @@
  2.1.1
+https://raw.githubusercontent.com/Ricardobpv/versao-fps-boost/refs/heads/main/versao.txt?v=2
